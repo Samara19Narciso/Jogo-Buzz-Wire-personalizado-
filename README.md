@@ -34,3 +34,23 @@
 <li>Madeira/ Papel&atilde;o grosso</li>
 <li>Cabide / arame</li>
 </ul>
+<p><strong>&nbsp;Instala&ccedil;&atilde;o </strong></p>
+<p>Para a parte f&iacute;sica do projeto</p>
+<p>Para a programa&ccedil;&atilde;o &eacute; preciso compreender o b&aacute;sico da linguaguem C++ al&eacute;m de possuir tais programas&nbsp;</p>
+<p><a href="https://www.arduino.cc/en/main/software">https://www.arduino.cc/en/main/software</a></p>
+<p><a href="http://fritzing.org/home/">http://fritzing.org/home/</a></p>
+<p><strong>Cr&eacute;ditos</strong></p>
+<p><a href="https://pt.tipsandtrics.com/make-buzz-wire-game-with-an-arduino-7687">https://pt.tipsandtrics.com/make-buzz-wire-game-with-an-arduino-7687</a></p>
+<p><a href="https://github.com/Epaminondaslage/Como-montar-seu-README">https://github.com/Epaminondaslage/Como-montar-seu-README</a></p>
+<p><a href="https://html-online.com/editor/">https://html-online.com/editor/</a></p>
+<p><a href="https://ferpinheiro.wordpress.com/2011/08/28/tocando-musicas-com-o-arduino/">https://ferpinheiro.wordpress.com/2011/08/28/tocando-musicas-com-o-arduino/</a></p>
+<p><a href="https://ferpinheiro.wordpress.com/2011/08/28/tocando-musicas-com-o-arduino/">https://ferpinheiro.wordpress.com/2011/08/28/tocando-musicas-com-o-arduino/</a></p>
+<p><a href="https://www.youtube.com/watch?v=9AB7QuOT8As&amp;t=237s">https://www.youtube.com/watch?v=9AB7QuOT8As&amp;t=237s</a></p>
+<p><a href="https://portal.vidadesilicio.com.br/usando-o-buzzer-com-arduino-transdutor-piezo-eletrico/">https://portal.vidadesilicio.com.br/usando-o-buzzer-com-arduino-transdutor-piezo-eletrico/</a></p>
+<p><a href="http://eletronicaparaartistas.com.br/experimento-35-extra-usando-displays-de-7-segmentos/">http://eletronicaparaartistas.com.br/experimento-35-extra-usando-displays-de-7-segmentos/</a></p>
+<p><strong>Agradecimento</strong></p>
+<p>Gratifico este trabalho ao professor Epaminondas Lages por ter nos proporcionado tal experi&ecirc;ncia.</p>
+<p>&nbsp;</p>
+<p>Aluna; Samara Narciso&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

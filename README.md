@@ -46,8 +46,8 @@
 <p><a href="https://www.arduino.cc/en/main/software">https://www.arduino.cc/en/main/software</a></p>
 <p><a href="http://fritzing.org/home/">http://fritzing.org/home/&nbsp;</a></p>
 <p><a href="https://desktop.github.com/">https://desktop.github.com/</a></p>
-<p><strong>C&oacute;digo para o projeto</strong>&nbsp;</p>
-<p><strong>Cr&eacute;ditos</strong></p>
+
+https://github.com/Samara19Narciso/Jogo-Buzz-Wire-personalizado-/blob/master/BUZZ_WIRE_PRONTO_MELHORADO.ino<p><strong>Cr&eacute;ditos</strong></p>
 <p><a href="https://pt.tipsandtrics.com/make-buzz-wire-game-with-an-arduino-7687">https://pt.tipsandtrics.com/make-buzz-wire-game-with-an-arduino-7687</a></p>
 <p><a href="https://github.com/Epaminondaslage/Como-montar-seu-README">https://github.com/Epaminondaslage/Como-montar-seu-README</a></p>
 <p><a href="https://html-online.com/editor/">https://html-online.com/editor/</a></p>

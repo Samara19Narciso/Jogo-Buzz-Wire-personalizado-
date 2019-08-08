@@ -54,3 +54,6 @@
 <p><a href="http://eletronicaparaartistas.com.br/experimento-35-extra-usando-displays-de-7-segmentos/">http://eletronicaparaartistas.com.br/experimento-35-extra-usando-displays-de-7-segmentos/</a></p>
 <p><strong>Agradecimento</strong></p>
 <p>Gratifico este trabalho ao professor Epaminondas Lage por ter nos proporcionado tal experi&ecirc;ncia.</p>
+
+
+<img src="https://github.com/Epaminondaslage/D1-Mini-Lolin/blob/master/Figuras/wemos di mini lolin.JPG" height="150" width="200">

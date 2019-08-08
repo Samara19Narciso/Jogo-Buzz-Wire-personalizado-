@@ -1,3 +1,5 @@
+<p><strong>&nbsp;&nbsp; Jogo Buzz Wire&nbsp;</strong></p>
+<p>&nbsp;</p>
 <p>Buzz Wire ou labirinto el&eacute;trico &eacute; um jogo de entretenimento desafiador, onde &eacute; necess&aacute;rio ter as m&atilde;os firmes para cumprir o objetivo, que consiste atravessar um percurso feito de arame, sem deixar que o auto falante toque, ou seja, n&atilde;o &eacute; permitido encostar no corpo de arame, somente ao seu redor num restrito espa&ccedil;o. E ai, voc&ecirc; consegue?</p>
 <p>Para a realiza&ccedil;&atilde;o deste jogo ser&aacute; explicado a montagem tanto da parte el&eacute;trica quanto f&iacute;sica que estar&aacute; ordenado por t&oacute;picos.</p>
 <p><strong>Sum&aacute;rio&nbsp;</strong></p>

@@ -42,6 +42,7 @@
 <p><strong>&nbsp;Instala&ccedil;&atilde;o</strong></p>
 <p>Para a parte f&iacute;sica do projeto &eacute; opcional uma montagem que pode ser feita numa superf&iacute;cie de madeira ou em uma caixa de mdf onde ser&aacute; instalado as liga&ccedil;&otilde;es</p>
 <img src="https://www.plungecreations.co.uk/wp-content/gallery/wire-buzzer/wire-buzzer-game-05.jpg" height="250" width="300">
+<img src="https://github.com/Samara19Narciso/Jogo-Buzz-Wire-personalizado-/blob/master/montagem.png" height="150" width="200">
 <p>Para a programa&ccedil;&atilde;o &eacute; preciso compreender o b&aacute;sico da linguaguem C++ al&eacute;m de possuir tais programas&nbsp;</p>
 <p><a href="https://www.arduino.cc/en/main/software">https://www.arduino.cc/en/main/software</a></p>
 <p><a href="http://fritzing.org/home/">http://fritzing.org/home/&nbsp;</a></p>
